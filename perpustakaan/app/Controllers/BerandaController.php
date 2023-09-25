@@ -6,11 +6,6 @@ use App\Controllers\BaseController;
 
 class BerandaController extends BaseController
 {
-    public function index()
-    {
-        //
-    }
-
     public function judul()
     {
         //
@@ -20,9 +15,9 @@ class BerandaController extends BaseController
     {
         //
     }
-    public function konten_terkini()
+
+    public function konten()
     {
-       // 
+        //
     }
-    
 }
